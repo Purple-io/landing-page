@@ -2,7 +2,10 @@
 html {
   overflow-x: hidden;
 }
-
+.customlogo {
+  width: 30% !important;
+  height: auto !important;
+}
 body {
   background: #fff;
   font-size: 14px;
